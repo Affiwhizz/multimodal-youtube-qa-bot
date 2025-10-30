@@ -1,1 +1,1 @@
-# multimodal-youtube-qa-bot
+# Multimodal YouTube QA Bot
